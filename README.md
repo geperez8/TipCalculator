@@ -10,9 +10,9 @@ Time spent: 3 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
+Tip Calculator is an android app that calculates the tip and total amount based on tip percentage and party size 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 🫡👌😯
 
 ## Application Features
 
