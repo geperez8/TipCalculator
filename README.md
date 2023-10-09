@@ -4,9 +4,9 @@
 
 # AND101 Project 4 - CodeMath
 
-Submitted by: **Your Name Here**
+Submitted by: Gerardo Perez
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Summary
 
