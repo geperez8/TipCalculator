@@ -26,7 +26,7 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
+- [X] Implement ViewBinding to reduce boilerplate code and increase efficiency
 - [X] Add at least one (1) additional functionality
 
 The following EXTRA features are implemented:
